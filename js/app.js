@@ -19,7 +19,7 @@ EcRepository.caching = true;
 
 var frameworkId = "";
 
-var servers = ["https://sandbox.cassproject.org/api/custom", "https://dev.cassproject.org/api/custom"];
+var servers = ["http://cass.credentialfinder.net/api/custom"];
 
 var repos = [];
 
